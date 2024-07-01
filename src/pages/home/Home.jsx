@@ -1,4 +1,5 @@
 import Hero from "../../components/Hero";
+import StartedBanner from "../../components/StartedBanner";
 import WorkingTimeline from "../../components/WorkingTimeline";
 
 export default function Home() {
@@ -6,6 +7,7 @@ export default function Home() {
         <>
             <Hero />
             <WorkingTimeline />
+            <StartedBanner />
         </>
     )
 }

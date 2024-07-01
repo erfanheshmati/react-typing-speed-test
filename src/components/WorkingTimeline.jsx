@@ -9,11 +9,10 @@ export default function WorkingTimeline() {
                 <Timeline.Item>
                     <Timeline.Point />
                     <Timeline.Content>
-                        <Timeline.Time>February 2022</Timeline.Time>
-                        <Timeline.Title>Application UI code in Tailwind CSS</Timeline.Title>
+                        <Timeline.Time>August 2024</Timeline.Time>
+                        <Timeline.Title>How to improve typing speed?</Timeline.Title>
                         <Timeline.Body>
-                            Get access to over 20+ pages including a dashboard layout, charts, kanban board, calendar, and pre-order
-                            E-commerce & Marketing pages.
+                            Typing is all about muscle memory, so the only way to improve is to practice typing regularly. We created TheTypingCat to give you a tool to learn and practice touch typing in the most effective way. The process of developing proper habits requires you to train your fingers periodically and to be patient. You should first focus foremost on accuracy, ergonomics, and high typing speed will come with time. Not to overwork yourself. Remember, it is a marathon, not a sprint, it is better to take ten minutes exercises daily than a single one hour run.
                         </Timeline.Body>
                         <Button color="gray">
                             Learn More
@@ -24,21 +23,20 @@ export default function WorkingTimeline() {
                 <Timeline.Item>
                     <Timeline.Point />
                     <Timeline.Content>
-                        <Timeline.Time>March 2022</Timeline.Time>
-                        <Timeline.Title>Marketing UI design in Figma</Timeline.Title>
+                        <Timeline.Time>September 2024</Timeline.Time>
+                        <Timeline.Title>Words Per Minute (WPM)</Timeline.Title>
                         <Timeline.Body>
-                            All of the pages and components are first designed in Figma and we keep a parity between the two versions
-                            even as we update the project.
+                            The WPM stands for words per minute, and it is a measure of typing speed, commonly used in the recruitment process and typing speed tests. It is standardized to five characters or keystrokes. The benefits of a standardized measurement of input speed are that it enables comparison across language. Make sure you start your touch typing with high accuracy. Your speed will grow over time.
                         </Timeline.Body>
                     </Timeline.Content>
                 </Timeline.Item>
                 <Timeline.Item>
                     <Timeline.Point />
                     <Timeline.Content>
-                        <Timeline.Time>April 2022</Timeline.Time>
-                        <Timeline.Title>E-Commerce UI code in Tailwind CSS</Timeline.Title>
+                        <Timeline.Time>October 2024</Timeline.Time>
+                        <Timeline.Title>Why typing speed matter?</Timeline.Title>
                         <Timeline.Body>
-                            Get started with dozens of web components and interactive elements built on top of Tailwind CSS.
+                            Touch typing lets you focus on your main activity. Being less distracted by how fast you can type gives you enormous productivity boosts. It allows you to make your work done better and higher quality. You will make much fewer type errors, and your work will be much more valuable. You would be able to communicate faster and better.
                         </Timeline.Body>
                     </Timeline.Content>
                 </Timeline.Item>

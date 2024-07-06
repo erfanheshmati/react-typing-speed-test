@@ -3,7 +3,7 @@ import { HiArrowNarrowRight } from "react-icons/hi";
 
 export default function WorkingTimeline() {
     return (
-        <div className="mt-8 px-4">
+        <div className="mt-8 px-6">
             <h2 className="text-3xl font-semibold">Typing Speed Test</h2>
             <Timeline className="mt-4">
                 <Timeline.Item>
